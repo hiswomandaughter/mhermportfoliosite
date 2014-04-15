@@ -1,0 +1,144 @@
+*  {
+  background-color: #338950;
+}
+.container {
+  width: 960px;
+  padding: 10px;
+}
+.header {
+  padding: 10px;
+  margin-bottom: 10px;
+
+}
+#banner {
+  width: 990px;
+  height: 200px;
+  padding-left: 0px;
+  padding-right: 10px;
+  display: inline;
+}
+#profileimg  {
+  width: 200px;
+  height: 200px;
+  display:inline;
+  float: left;
+  padding: 20px;
+  padding-left: 0px;
+  align: center;
+}
+#hellacontent {
+  width: 960px;
+  height: 200px;
+  padding: 10px;
+  border: 2px solid black;
+  text-align: center;
+  border-left: 2px solid black;
+  font-size: 12px;
+  font-family: Book Antiqua, serif;
+}
+a        {
+  text-decoration: none;
+  color: black;
+}
+li {
+  list-style-type: none;
+}
+.topbar {
+  background-color:#9B9B82;
+  width: 960px;
+}
+#navbar ul { 
+	margin: 0px; 
+	padding: 15px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #9B9B82;
+display: block;
+float: center;
+	} 
+#navbar ul li  {
+  display: inline;
+  align: center;
+}
+ 
+#navbar ul li a { 
+	text-decoration: none;
+  padding: .2em 4.05em;
+  background-color: #9B9B82;
+  color: black;
+  font-family: High Tower Text, serif;
+  font-size: 16px;
+	} 
+#navbar ul li#home a:hover { 
+  background-color: #cc2945;
+	}
+#navbar ul li#aboutme a:hover { 
+  background-color: #dd9914; 
+	}
+#navbar ul li#portfolio a:hover { 
+  background-color: #23753d; 
+	}
+#navbar ul li#resume a:hover { 
+  background-color: #a67a53; 
+	}
+#navbar ul li#contactme a:hover { 
+  background-color: #a37098; 
+	}
+.body {
+  background-color: #338950;
+  align:center;
+  width: 990px;
+  height: 200px;
+}
+#greeting {
+  text-align: center;
+  background-color: #338950;
+  font-size: 30px;
+}
+.blurb {
+  background-color: #338950;
+  padding-left: 10px;
+  text-align: center;
+  margin:10px;
+  display: justify;
+}
+#copyright {
+  text-align:left;
+  float: bottom;
+}
+footer {
+  padding-top: 50px;
+}
+.theend {
+  clear:left;
+  padding-top: 50px;
+}
+#facebook {
+  float: left;
+  height: 60px;
+  width: 65px;
+}
+#linkedin {
+  float: left;
+  height: 58.5px;
+  width: 65px;
+  padding-left: 30px;
+  padding-top: 1px;
+}
+#twitter {
+  float: left;
+  height: 60px;
+  width: 65px;
+  padding-left: 30px;
+}
+#tumblr {
+  float: left;
+  height: 75px;
+  width: 70px;
+  padding-left: 30px;
+  display: inline;
+}
+#footer {
+  padding-top: 50px;
+  display: inline;
+}
