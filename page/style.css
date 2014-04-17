@@ -16,6 +16,7 @@
   padding-left: 0px;
   padding-right: 10px;
   display: inline;
+  float: left;
 }
 #profileimg  {
   width: 200px;
