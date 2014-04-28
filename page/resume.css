@@ -1,5 +1,5 @@
 *  {
-  background-color: #338950;
+  background-color: #FFFFFF;
 }
 .container {
   width: 960px;
@@ -86,14 +86,14 @@ border-radius: 10px;
   background-color: #a37098; 
 	}
 .body {
-  background-color: #338950;
+  background-color: #FFFFFF;
   align:center;
   width: 990px;
   height: 200px;
 }
 #greeting {
   text-align: center;
-  background-color: #338950;
+  background-color: #FFFFFF;
   font-size: 30px;
 }
 .resume {

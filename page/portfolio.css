@@ -1,5 +1,5 @@
 *  {
-  background-color: #338950;
+  background-color: #FFFFFFF;
 }
 .container {
   width: 960px;
@@ -91,22 +91,20 @@ box-shadow: 0px 0px 9px rgba (0,0,0.15)
   background-color: #a37098; 
 	}
 .body {
-  background-color: #338950;
+  background-color: #FFFFFF;
   align:center;
   width: 990px;
   height: 200px;
 }
 #greeting {
   text-align: center;
-  background-color: #338950;
+  background-color: #FFFFFF;
   font-size: 30px;
   display: block;
   align:center;
 }
-.subheader{
-}
 .thumb {
-  width: 80px;
+  width: 150px;
   display: block;
   clear:right;
   float:left;
